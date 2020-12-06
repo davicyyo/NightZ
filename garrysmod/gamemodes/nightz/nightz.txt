@@ -1,0 +1,8 @@
+"deathrun"
+{
+	"base"		"base"
+	"title"		"NightZ"
+	"maps"		"^nz_"
+	"menusystem"	"1"
+
+}
